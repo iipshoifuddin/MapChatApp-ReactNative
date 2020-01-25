@@ -33,8 +33,7 @@
 2. Type `git clone https://github.com/iipshoifuddin/HiringChannelsWithReactNative`
 3. Open the folder and type `npm install` for install dependencies
 4. Create environment variable [here](#create-environment-variable)
-5. Before run this, you must run backend first
-6. Type `react-native run-android` for run this app. **_Make sure your device is connected with debugging mode_**.
+5. Type `react-native run-android` for run this app. **_Make sure your device is connected with debugging mode_**.
 
 ## Create Environment Variable
 
