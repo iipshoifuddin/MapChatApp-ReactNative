@@ -1,4 +1,4 @@
-<h1 align="center">Hiring Channels</h1>
+<h1 align="center">Bounce Chat</h1>
 <p align="center">
   <img height="100" src="./ScreenShot/logo.png"/>
   <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
@@ -20,7 +20,7 @@
 
 ## Introduction
 
-<b>Hiring Channels</b> Hiring Channels is an application created for the purpose of facilitating job seekers and employers, where job seekers and employers only register in this application and find their respective matches, without having to meet in an event and this aplication build with react native
+<b>Bounce Chat</b> is a chat application that was built with react native using backend firebase is very fast for daily use, and there are also maps to find out the reman that is around us.
 
 ## Requirements
 - [`nodeJS`](https://nodejs.org/en/download/)
