@@ -20,7 +20,7 @@
 
 ## Introduction
 
-<b>Bounce Chat</b> is a chat application that was built with react native using backend firebase is very fast for daily use, and there are also maps to find out the reman that is around us.
+<b>Bounce Chat</b> is a chat application that was built with react native using backend firebase is very fast for everyday use, and there are also maps to find out friends who are around us.
 
 ## Requirements
 - [`nodeJS`](https://nodejs.org/en/download/)
