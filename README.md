@@ -70,7 +70,7 @@ and open .env file with text editor
 
 ## Release APK
 
-<a href="https://drive.google.com/file/d/1liwwppuoLzjfiJe02Y9r6OhYUjdW64JB/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1o2NU95UqoxDaLGotjUrnfTCHLfJxkeyI/view?usp=sharing">
   <img src="https://img.shields.io/badge/Download%20from-Google%20Drive-blue.svg?style=popout&logo=google-drive"/>
 </a>
 
