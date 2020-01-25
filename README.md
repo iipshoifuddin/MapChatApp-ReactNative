@@ -25,14 +25,14 @@
 - [`nodeJS`](https://nodejs.org/en/download/)
 - [`npm`](https://www.npmjs.com/get-npm)
 - [`react-native-cli`](https://facebook.github.io/react-native/docs/getting-started)
-- [`Backend HiringChannels`](https://github.com/iipshoifuddin/hiringChannelAppRestfull)
+- [`Backend Firebase`](https://firebase.google.com/)
 
 ## Usage for development
 
 1. Open your terminal or command prompt
 2. Type `git clone https://github.com/iipshoifuddin/HiringChannelsWithReactNative`
 3. Open the folder and type `npm install` for install dependencies
-4. Configure Firebase Click [here](#create-environment-variable)
+4. Create environment variable [here](#create-environment-variable)
 5. Before run this, you must run backend first
 6. Type `react-native run-android` for run this app. **_Make sure your device is connected with debugging mode_**.
 
@@ -50,11 +50,17 @@ $ copy .env.example .env
 ```
 and open .env file with text editor
 
-# Set API KEY
+# Set Firebase KEY
 
 ```
-API_ENDPOINT=Your endpoint API
-BASE_URL=Your Base URL
+    API_KEY = YOUR_API_KEY
+    AUTH_DOMAIN = YOUR_AUTH_DOMAIN
+    DATABASE_URL = YOUR_DATABASE_URL 
+    PROJECT_ID = YOUR_PROJECT_ID
+    STORAGE_BUCKET = YOUR_STORAGE_BUCKET
+    MESSAGING_SENDER_ID = YOUR_MESSAGING_SENDER_ID
+    APP_ID = YOUR_APP_ID
+    MEASUREMENT_ID = YOUR_MEASUREMENT_ID
 ```
 
 ## Screenshots
@@ -71,6 +77,6 @@ BASE_URL=Your Base URL
 
 ## Related Project (Backend)
 
-- [`Backend HiringChannels`](https://github.com/iipshoifuddin/hiringChannelAppRestfull)
+- [`Backend Firebase`](https://firebase.google.com/)
 
 
