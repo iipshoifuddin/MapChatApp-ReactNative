@@ -65,7 +65,7 @@ and open .env file with text editor
 ## Screenshots
 
 <div align="center">
-    <img height="250" src="./ScreenShot/mockup.png">
+    <img height="250" src="./ScreenShot/image1.png">
 </div>
 
 ## Release APK
