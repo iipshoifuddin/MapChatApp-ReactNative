@@ -36,7 +36,7 @@
 5. Before run this, you must run backend first
 6. Type `react-native run-android` for run this app. **_Make sure your device is connected with debugging mode_**.
 
-## Create Environment Variabl
+## Create Environment Variable
 
 For Linux /src/auth/firebase.js :
 ```
