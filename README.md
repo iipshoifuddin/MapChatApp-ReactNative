@@ -16,7 +16,6 @@
 - [Screenshots](#screenshots)
 - [Release APK](#release-apk)
 - [Related Project](#related-project-backend)
-- [Contributors](#contributors)
 
 ## Introduction
 
@@ -33,13 +32,13 @@
 1. Open your terminal or command prompt
 2. Type `git clone https://github.com/iipshoifuddin/HiringChannelsWithReactNative`
 3. Open the folder and type `npm install` for install dependencies
-4. Create Environment Variable [here](#create-environment-variable)
+4. Configure Firebase Click [here](#create-environment-variable)
 5. Before run this, you must run backend first
 6. Type `react-native run-android` for run this app. **_Make sure your device is connected with debugging mode_**.
 
-## Create Environment Variable
+## Create Environment Variabl
 
-For Linux :
+For Linux /src/auth/firebase.js :
 ```
 $ cp .env.example .env
 $ nano .env
